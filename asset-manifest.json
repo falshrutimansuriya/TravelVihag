@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TravelVihag/static/css/main.61d6235c.css",
-    "main.js": "/TravelVihag/static/js/main.aabbbf4c.js",
+    "main.js": "/TravelVihag/static/js/main.8c18507d.js",
     "index.html": "/TravelVihag/index.html",
     "main.61d6235c.css.map": "/TravelVihag/static/css/main.61d6235c.css.map",
-    "main.aabbbf4c.js.map": "/TravelVihag/static/js/main.aabbbf4c.js.map"
+    "main.8c18507d.js.map": "/TravelVihag/static/js/main.8c18507d.js.map"
   },
   "entrypoints": [
     "static/css/main.61d6235c.css",
-    "static/js/main.aabbbf4c.js"
+    "static/js/main.8c18507d.js"
   ]
 }
