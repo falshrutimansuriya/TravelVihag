@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TravelVihag/static/css/main.61d6235c.css",
+    "main.js": "/TravelVihag/static/js/main.aabbbf4c.js",
+    "index.html": "/TravelVihag/index.html",
+    "main.61d6235c.css.map": "/TravelVihag/static/css/main.61d6235c.css.map",
+    "main.aabbbf4c.js.map": "/TravelVihag/static/js/main.aabbbf4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61d6235c.css",
+    "static/js/main.aabbbf4c.js"
+  ]
+}
